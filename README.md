@@ -21,9 +21,11 @@ Sistema web desenvolvido para gerenciamento inteligente de agendamento odontoló
 
 ## Screenshots
 
-Interface principal: métricas do dia (consultas, no prazo, Interval Scheduling, atraso total), cartões dos algoritmos **Minimize Lateness** e **Interval Scheduling**, timeline por dentista, formulário de nova consulta e lista de consultas.
+![Print do OdontoSmart](/odontosmart/assets/dashboard.png)
 
-![OdontoSmart — interface principal](/odontosmart/assets/dashboard.png)
+## Vídeo
+
+https://youtu.be/4GEj9lRNCsg
 
 ## Instalação
 
