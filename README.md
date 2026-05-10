@@ -244,16 +244,6 @@ odontosmart/
 * Validações client-side e server-side
 * Algoritmos executados em tempo real a cada operação
 
-## Melhorias Futuras
-
-* 📦 Integração com banco de dados (MongoDB/PostgreSQL)
-* 🔐 Autenticação e autorização de usuários
-* 📱 Aplicativo mobile (React Native)
-* 📊 Relatórios e exportação de dados
-* 🔔 Sistema de notificações
-* 🌙 Modo escuro
-* 🌐 Suporte a múltiplas clínicas
-
 ## Contribuidores
 
 - **Davi Emanuel Ribeiro de Oliveira** (231026616)
