@@ -8,7 +8,7 @@ Conteúdo da Disciplina: Algoritmos Greedy (Projeto de Algoritmos)
 | Matrícula  | Aluno                              |
 | ---------- | ---------------------------------- |
 | 231026616  | Davi Emanuel Ribeiro de Oliveira   |
-| -          | Felipe Lopes Pedroza               |
+| 231026330          | Felipe Lopes Pedroza               |
 
 ## Sobre
 
