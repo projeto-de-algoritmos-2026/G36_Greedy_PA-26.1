@@ -237,7 +237,7 @@ odontosmart/
 ## Contribuidores
 
 - **Davi Emanuel Ribeiro de Oliveira** (231026616)
-- **Felipe Lopes Pedroza**
+- **Felipe Lopes Pedroza** (231026330)
 
 ---
 
