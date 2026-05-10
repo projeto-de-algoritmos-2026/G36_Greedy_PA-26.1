@@ -1,0 +1,60 @@
+# Dependências (npm — stack atual: Express; package-lock.json permanece versionado)
+node_modules/
+
+# Builds e artefatos gerados (bundlers, ferramentas futuras)
+build/
+dist/
+out/
+
+# Ambientes virtuais Python (não há requirements/pyproject no backend hoje; ignorar por segurança)
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+
+# Bytecode, caches e testes Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+
+# Variáveis de ambiente locais (segredos)
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Cobertura e relatórios de teste (Node)
+coverage/
+.nyc_output/
+
+# Cache de ferramentas
+.eslintcache
+.node_repl_history
+*.tsbuildinfo
+.cache/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs e editores
+.idea/
+*.swp
+*.swo
+*~
